@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bottom_right</folder>
+	<filename>aaf8e63c6977736a31d7af017c5c29cd_32.jpg</filename>
+	<path>/home/prasannals/video_platform_detector/data/tik_tok/images/bottom_right/aaf8e63c6977736a31d7af017c5c29cd_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tik_tok_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>583</ymin>
+			<xmax>350</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centre</folder>
+	<filename>10ff9533308b2c4c2081d8270779edfb_13.jpg</filename>
+	<path>/home/prasannals/video_platform_detector/data/tik_tok/images/centre/10ff9533308b2c4c2081d8270779edfb_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tik_tok_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>562</ymin>
+			<xmax>228</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>
