@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/prasannals/video_platform_detector/tf_test_out/trainOutput/model.ckpt-10855"
+all_model_checkpoint_paths: "/home/prasannals/video_platform_detector/tf_test_out/trainOutput/model.ckpt-4322"
+all_model_checkpoint_paths: "/home/prasannals/video_platform_detector/tf_test_out/trainOutput/model.ckpt-6493"
+all_model_checkpoint_paths: "/home/prasannals/video_platform_detector/tf_test_out/trainOutput/model.ckpt-8672"
+all_model_checkpoint_paths: "/home/prasannals/video_platform_detector/tf_test_out/trainOutput/model.ckpt-10854"
+all_model_checkpoint_paths: "/home/prasannals/video_platform_detector/tf_test_out/trainOutput/model.ckpt-10855"
